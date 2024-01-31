@@ -1,0 +1,9 @@
+.active_link {
+    color:blue !important;
+    border-radius: 9px;
+    font-weight: bold;
+    border: 1px solid blue;
+}
+.in_active {
+    color:black;
+}
